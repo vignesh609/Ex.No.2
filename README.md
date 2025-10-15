@@ -1,7 +1,7 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 21/08/2025                                                                       
+### REGISTER NUMBER : 212222210027
  
 ### Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
